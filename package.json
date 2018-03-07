@@ -1,7 +1,7 @@
 {
-  "name": "viewrouter",
+  "name": "viewroute",
   "version": "0.1.0",
-  "description": "a view router",
+  "description": "a view router for morphable",
   "main": "index.js",
   "dependencies": {
     "bel": "^5.1.7",
