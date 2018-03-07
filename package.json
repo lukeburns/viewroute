@@ -1,0 +1,16 @@
+{
+  "name": "viewrouter",
+  "version": "0.1.0",
+  "description": "a view router",
+  "main": "index.js",
+  "dependencies": {
+    "bel": "^5.1.7",
+    "morphable": "^0.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
